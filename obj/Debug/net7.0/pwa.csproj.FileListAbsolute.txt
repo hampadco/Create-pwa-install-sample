@@ -1,31 +1,199 @@
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\appsettings.json
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\pwa.staticwebassets.runtime.json
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\pwa.exe
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\pwa.deps.json
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\pwa.runtimeconfig.json
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\pwa.dll
-C:\Users\apple\Desktop\pwa\bin\Debug\net7.0\pwa.pdb
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.csproj.AssemblyReference.cache
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.AssemblyInfoInputs.cache
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.AssemblyInfo.cs
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.csproj.CoreCompileInputs.cache
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.RazorAssemblyInfo.cache
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.RazorAssemblyInfo.cs
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets\msbuild.pwa.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets\msbuild.build.pwa.props
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pwa.props
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pwa.props
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\scopedcss\bundle\pwa.styles.css
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\scopedcss\projectbundle\pwa.bundle.scp.css
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.dll
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\refint\pwa.dll
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.pdb
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\pwa.genruntimeconfig.cache
-C:\Users\apple\Desktop\pwa\obj\Debug\net7.0\ref\pwa.dll
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/appsettings.json
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/pwa.staticwebassets.runtime.json
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/pwa.exe
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/pwa.deps.json
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/pwa.runtimeconfig.json
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/pwa.dll
+C:/Users/apple/Desktop/pwa/bin/Debug/net7.0/pwa.pdb
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.csproj.AssemblyReference.cache
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.AssemblyInfoInputs.cache
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.AssemblyInfo.cs
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.csproj.CoreCompileInputs.cache
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cache
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cs
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets/msbuild.pwa.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets/msbuild.build.pwa.props
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.pwa.props
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.pwa.props
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/scopedcss/bundle/pwa.styles.css
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/scopedcss/projectbundle/pwa.bundle.scp.css
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.dll
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/refint/pwa.dll
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.pdb
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/pwa.genruntimeconfig.cache
+C:/Users/apple/Desktop/pwa/obj/Debug/net7.0/ref/pwa.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/appsettings.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/pwa.staticwebassets.runtime.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/pwa.exe
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/pwa.deps.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/pwa.runtimeconfig.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/pwa.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/pwa.pdb
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.csproj.AssemblyReference.cache
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.AssemblyInfoInputs.cache
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.AssemblyInfo.cs
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.csproj.CoreCompileInputs.cache
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cache
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cs
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.pwa.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.build.pwa.props
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.pwa.props
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.pwa.props
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/scopedcss/bundle/pwa.styles.css
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/scopedcss/projectbundle/pwa.bundle.scp.css
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/refint/pwa.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.pdb
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.genruntimeconfig.cache
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/ref/pwa.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/System.IO.Ports.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/unix/lib/net7.0/System.IO.Ports.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.IO.Ports.dll
+C:/Users/hampadco/Desktop/Create-pwa-install-sample/obj/Debug/net7.0/pwa.csproj.CopyComplete
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/appsettings.Development.json
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/appsettings.json
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/pwa.staticwebassets.runtime.json
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/pwa
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/pwa.deps.json
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/pwa.runtimeconfig.json
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/pwa.dll
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/pwa.pdb
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/System.IO.Ports.dll
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/unix/lib/net7.0/System.IO.Ports.dll
+/home/hampa/Downloads/Create-pwa-install-sample/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.IO.Ports.dll
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.csproj.AssemblyReference.cache
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.GeneratedMSBuildEditorConfig.editorconfig
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.AssemblyInfoInputs.cache
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.AssemblyInfo.cs
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.csproj.CoreCompileInputs.cache
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.MvcApplicationPartsAssemblyInfo.cache
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cache
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cs
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.pwa.Microsoft.AspNetCore.StaticWebAssets.props
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.build.pwa.props
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.pwa.props
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.pwa.props
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets.pack.json
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets.build.json
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/staticwebassets.development.json
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/scopedcss/bundle/pwa.styles.css
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/scopedcss/projectbundle/pwa.bundle.scp.css
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.csproj.CopyComplete
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.dll
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/refint/pwa.dll
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.pdb
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/pwa.genruntimeconfig.cache
+/home/hampa/Downloads/Create-pwa-install-sample/obj/Debug/net7.0/ref/pwa.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/appsettings.Development.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/appsettings.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/pwa.staticwebassets.runtime.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/pwa
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/pwa.deps.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/pwa.runtimeconfig.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/pwa.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/pwa.pdb
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/System.IO.Ports.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/unix/lib/net7.0/System.IO.Ports.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.IO.Ports.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.csproj.AssemblyReference.cache
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.GeneratedMSBuildEditorConfig.editorconfig
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.AssemblyInfoInputs.cache
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.AssemblyInfo.cs
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.csproj.CoreCompileInputs.cache
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.MvcApplicationPartsAssemblyInfo.cache
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cache
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.RazorAssemblyInfo.cs
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets/msbuild.pwa.Microsoft.AspNetCore.StaticWebAssets.props
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets/msbuild.build.pwa.props
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.pwa.props
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.pwa.props
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets.pack.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets.build.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/staticwebassets.development.json
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/scopedcss/bundle/pwa.styles.css
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/scopedcss/projectbundle/pwa.bundle.scp.css
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.csproj.CopyComplete
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/refint/pwa.dll
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.pdb
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/pwa.genruntimeconfig.cache
+/home/hampa/Downloads/v2/Create-pwa-install-sample (copy)/obj/Debug/net7.0/ref/pwa.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\appsettings.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\pwa.staticwebassets.runtime.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\pwa.exe
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\pwa.deps.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\pwa.runtimeconfig.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\pwa.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\pwa.pdb
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\System.IO.Ports.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.IO.Ports.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.csproj.AssemblyReference.cache
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.AssemblyInfoInputs.cache
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.AssemblyInfo.cs
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.csproj.CoreCompileInputs.cache
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.RazorAssemblyInfo.cache
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.RazorAssemblyInfo.cs
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets\msbuild.pwa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets\msbuild.build.pwa.props
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pwa.props
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pwa.props
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\scopedcss\bundle\pwa.styles.css
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\scopedcss\projectbundle\pwa.bundle.scp.css
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.csproj.CopyComplete
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\refint\pwa.dll
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.pdb
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\pwa.genruntimeconfig.cache
+C:\Users\hampadco\Desktop\Create-pwa-install-sample (copy)\obj\Debug\net7.0\ref\pwa.dll

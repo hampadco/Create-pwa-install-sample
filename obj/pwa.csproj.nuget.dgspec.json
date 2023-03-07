@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\apple\\Desktop\\pwa\\pwa.csproj": {}
+    "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj": {}
   },
   "projects": {
-    "c:\\Users\\apple\\Desktop\\pwa\\pwa.csproj": {
+    "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\apple\\Desktop\\pwa\\pwa.csproj",
+        "projectUniqueName": "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj",
         "projectName": "pwa",
-        "projectPath": "c:\\Users\\apple\\Desktop\\pwa\\pwa.csproj",
-        "packagesPath": "C:\\Users\\apple\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\apple\\Desktop\\pwa\\obj\\",
+        "projectPath": "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj",
+        "packagesPath": "C:\\Users\\hampadco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\apple\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hampadco\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

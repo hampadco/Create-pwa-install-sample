@@ -1,6 +1,68 @@
-﻿@{
-    ViewData["Title"] = "Privacy Policy";
-}
-<h1>@ViewData["Title"]</h1>
+﻿
+    <style>
+      video {
+        width: 100%;
+        height: auto;
+        border: 2px solid rgb(66, 66, 218);
+        border-radius: 10px;
+      }
 
-<p>Use this page to detail your site's privacy policy.</p>
+      .slideshow {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .slideshow img {
+        width: 300px;
+        height: auto;
+        margin: 5px;
+      }
+      img{
+         border: 1px solid yellow;
+        border-radius: 10px;
+      }
+    </style>
+
+    <h1 class="text-center alert alert-primary">Camera Example</h1>
+    <video id="video" autoplay></video>
+    <button id="start" class="btn btn-success">Start</button>
+    <button id="stop" class="btn btn-danger">Stop</button>
+    <button id="capture" class="btn btn-warning">Capture</button>
+    <a href="/" class="btn btn-secondary">Mainpage</a>
+    <canvas id="canvas" style="display: none;"></canvas>
+    <div class="slideshow" style="overflow-y: scroll;"></div>
+    <script>
+      const video = document.getElementById('video');
+      const canvas = document.getElementById('canvas');
+      const startButton = document.getElementById('start');
+      const stopButton = document.getElementById('stop');
+      const captureButton = document.getElementById('capture');
+      const slideshow = document.querySelector('.slideshow');
+      let stream;
+
+      startButton.addEventListener('click', () => {
+        navigator.mediaDevices.getUserMedia({ video: true })
+          .then((videoStream) => {
+            stream = videoStream;
+            video.srcObject = stream;
+          })
+          .catch((err) => {
+            console.error(err);
+          });
+      });
+
+      stopButton.addEventListener('click', () => {
+        stream.getTracks().forEach(track => track.stop());
+        video.srcObject = null;
+      });
+
+      captureButton.addEventListener('click', () => {
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+        canvas.getContext('2d').drawImage(video, 0, 0, canvas.width, canvas.height);
+        const imgData = canvas.toDataURL();
+        const img = new Image();
+        img.src = imgData;
+        slideshow.appendChild(img);
+      });
+    </script>

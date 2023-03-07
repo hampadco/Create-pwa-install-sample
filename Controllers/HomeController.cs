@@ -1,31 +1,58 @@
 ﻿using System.Diagnostics;
+using System.IO.Ports;
 using Microsoft.AspNetCore.Mvc;
-using pwa.Models;
+using Microsoft.AspNetCore.SignalR;
 
-namespace pwa.Controllers;
+
+namespace Refactor.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+   private readonly IHubContext<DataHub> _hubContext;
 
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
+        public HomeController(IHubContext<DataHub> hubContext)
+        {
+            _hubContext = hubContext;
+        }
 
     public IActionResult Index()
     {
         return View();
     }
-
-    public IActionResult Privacy()
+    
+    public IActionResult privacy()
     {
         return View();
     }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
+
+    public IActionResult Gauge()
     {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        // TODO: Your code here
+        return View();
     }
+    public IActionResult Gaugetwo()
+    {
+        // TODO: Your code here
+        return View();
+    }
+    
+
+     public async Task StartReading()
+        {
+            ///dev/ttyUSB0
+            using (SerialPort serialPort = new SerialPort("COM10"))
+            {
+                serialPort.Open();
+                while(true)
+                {
+                    string data = serialPort.ReadLine();
+                    await _hubContext.Clients.All.SendAsync("ReceiveData", data);
+                }
+
+
+            }
+        }
+
+    
 }
