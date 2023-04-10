@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj": {}
+    "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj": {
+    "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj",
+        "projectUniqueName": "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
         "projectName": "pwa",
-        "projectPath": "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj",
-        "packagesPath": "C:\\Users\\hampadco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\obj\\",
+        "projectPath": "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\my proge\\Create-pwa-install-sample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hampadco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AWSSDK.SecurityToken": {
+              "target": "Package",
+              "version": "[3.7.100.14, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

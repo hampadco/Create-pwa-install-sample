@@ -3570,6 +3570,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "AWSSDK.SecurityToken >= 3.7.100.14",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.3",
       "Microsoft.AspNetCore.SignalR >= 1.1.0",
       "MongoDB.Driver >= 2.19.0",
@@ -3577,19 +3578,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hampadco\\.nuget\\packages\\": {}
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj",
+      "projectUniqueName": "d:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
       "projectName": "pwa",
-      "projectPath": "c:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\pwa.csproj",
-      "packagesPath": "C:\\Users\\hampadco\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hampadco\\Desktop\\Create-pwa-install-sample (copy)\\obj\\",
+      "projectPath": "d:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "d:\\my proge\\Create-pwa-install-sample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hampadco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -3613,6 +3614,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "AWSSDK.SecurityToken": {
+            "target": "Package",
+            "version": "[3.7.100.14, )"
+          },
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
             "target": "Package",
             "version": "[7.0.3, )"
@@ -3649,7 +3654,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
