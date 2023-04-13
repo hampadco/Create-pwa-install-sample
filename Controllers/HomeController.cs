@@ -44,6 +44,11 @@ public class HomeController : Controller
 
     public async Task StartReading()
     {
+
+        //dbconnection
+        var client = new MongoClient("mongodb://localhost:27017");
+        var database = client.GetDatabase("hardware");
+        var collection = database.GetCollection<mongodb>("info");
         ///dev/ttyUSB0
         using (SerialPort serialPort = new SerialPort("COM10"))
         {
@@ -109,10 +114,22 @@ public class HomeController : Controller
 
 
                     //add to db
-                    await DbAsync(int.Parse(data), int.Parse(data1), int.Parse(data2));
+                   // await DbAsync(int.Parse(data), int.Parse(data1), int.Parse(data2));
+                   try
+                   {
+                    var document = new mongodb { chart = int.Parse(data), pulse = int.Parse(data1), spo = int.Parse(data2), Datetime = DateTime.Now };
+                    await collection.InsertOneAsync(document);
 
 
                     await _hubContext.Clients.All.SendAsync("ReceiveData", data, data1, data2);
+                   }
+                   catch (System.Exception)
+                   {
+                    var document = new mongodb { chart = 0, pulse = 0, spo = 0, Datetime = DateTime.Now };
+                    await collection.InsertOneAsync(document);
+                    await _hubContext.Clients.All.SendAsync("ReceiveData", data, data1, data2);
+                   }
+                    
 
 
 
@@ -124,51 +141,51 @@ public class HomeController : Controller
     }
 
 
-    //db connection
-    public async Task DbAsync(int chart, int pulse, int spo)
-    {
-        var client = new MongoClient("mongodb://localhost:27017");
-        var database = client.GetDatabase("hardware");
-        var collection = database.GetCollection<mongodb>("info");
-        var document = new mongodb { chart = chart, pulse = pulse, spo = spo, Datetime = DateTime.Now };
-        await collection.InsertOneAsync(document);
-    }
+   
 
     //get data
-    // public async Task GetData()
-    // {
-    //         var client = new MongoClient("mongodb://localhost:27017");
-    //         var database = client.GetDatabase("hardware");
-    //         var collection = database.GetCollection<mongodb>("info");
-    //         var pageSize = 1;
-    //         var pageNumber = 1;
-    //         var filter = Builders<mongodb>.Filter.Empty;
-    //         var options = new FindOptions<mongodb> { Sort = Builders<mongodb>.Sort.Ascending(d => d.Datetime) };
+    public async Task GetData()
+    {
+           
+            var client = new MongoClient("mongodb://localhost:27017");
+            var database = client.GetDatabase("hardware");
+            var collection = database.GetCollection<mongodb>("info");
+            var pageSize = 1;
+            var pageNumber = 1;
+            var filter = Builders<mongodb>.Filter.Empty;
+            var options = new FindOptions<mongodb> { Sort = Builders<mongodb>.Sort.Ascending(d => d.Datetime) };
 
-    //         var documents = new List<mongodb>();
-    //         var cursor = await collection.FindAsync(filter, options);
-    //         while (await cursor.MoveNextAsync())
-    //         {
-    //             var batch = cursor.Current;
-    //             foreach (var document in batch)
-    //             {
-    //                 if (documents.Count < pageSize * 1)
-    //                 {
-    //                        // await _hubContext.Clients.All.SendAsync("ReceiveData1", document.chart.ToString(), document.pulse.ToString(), document.spo.ToString(),document.Datetime.ToString());
-    //                       //sleep
-    //                         await Task.Delay(20);
-    //                 }
-    //                 else
-    //                 {
-    //                     pageNumber++;
-    //                 }
-    //             }
-    //         }
+            var documents = new List<mongodb>();
+            var cursor = await collection.FindAsync(filter, options);
+            while (await cursor.MoveNextAsync())
+            {
+                var batch = cursor.Current;
+                foreach (var document in batch)
+                {
+                    if (documents.Count < pageSize * 1)
+                    {
+                            await _hubContext.Clients.All.SendAsync("ReceiveData", document.chart.ToString(), document.pulse.ToString(), document.spo.ToString(),document.Datetime.ToString());
+                            
+                           
+                    }
+                    else
+                    {
+                        pageNumber++;
+                       
+                    }
+
+                     await Task.Delay(10);
+                     
+
+                    
+                }
+                
+            }
 
 
        
 
-    // }
+    }
 
 
  

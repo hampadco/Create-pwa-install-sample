@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj": {}
+    "d:\\my proge\\Create-pwa-install-sample\\pwa.csproj": {}
   },
   "projects": {
-    "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj": {
+    "d:\\my proge\\Create-pwa-install-sample\\pwa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
+        "projectUniqueName": "d:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
         "projectName": "pwa",
-        "projectPath": "D:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
+        "projectPath": "d:\\my proge\\Create-pwa-install-sample\\pwa.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\my proge\\Create-pwa-install-sample\\obj\\",
+        "outputPath": "d:\\my proge\\Create-pwa-install-sample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,10 +38,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "AWSSDK.SecurityToken": {
-              "target": "Package",
-              "version": "[3.7.100.14, )"
-            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -52,7 +48,7 @@
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.19.0, )"
+              "version": "[2.10.3, )"
             },
             "System.IO.Ports": {
               "target": "Package",

@@ -187,7 +187,8 @@ connection.on("ReceiveData", function (data,data1,data2) {
 
 document.getElementById("startBtn").addEventListener("click", function () {
   connection.start().then(function () {
-    $.post("/Home/StartReading");
+    //$.post("/Home/StartReading");
+    $.post("/Home/Getdata");
   });
 });
 
